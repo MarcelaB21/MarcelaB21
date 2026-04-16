@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Danna 👋 
 
-### Desarrolladora de Software Junior | Análisis Funcional & Java Backend
+### Desarrolladora de Software  | Análisis Funcional & Java Backend
 
 Me enfoco en comprender necesidades y procesos para transformarlos en soluciones de software claras y útiles. Valoro el análisis previo al desarrollo, buscando que cada decisión técnica responda a un problema real del usuario.
 
